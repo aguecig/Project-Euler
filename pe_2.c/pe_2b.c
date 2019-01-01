@@ -15,3 +15,6 @@ int main() {
 	printf("%d",sum);
 	return 0;
 }
+
+// Now we run the code for the first 33 terms, and add up all the terms 
+// that are even numbers.
