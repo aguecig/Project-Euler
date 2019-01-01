@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-	int n =  ; //enter integer to be factored here
-	int factor;
-	int lastfactor;
+	long long int n = 600851475143; //enter integer to be factored here
+	long long int factor;
+	long long int lastfactor;
 
 	if(n%2 == 0) {
 		n = n/2;
