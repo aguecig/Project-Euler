@@ -221,3 +221,7 @@ Using the rule above and starting with 13, we generate the following sequence:
 ###### 13 → 40 → 20 → 10 → 5 → 16 → 8 → 4 → 2 → 1
 It can be seen that this sequence (starting at 13 and finishing at 1) contains 10 terms. Although it has not been proved yet (Collatz Problem), it is thought that all starting numbers finish at 1.
 ###### Which starting number, under one million, produces the longest chain?
+
+### Problem 15 - Python
+Starting in the top left corner of a 2×2 grid, and only being able to move to the right and down, there are exactly 6 routes to the bottom right corner.
+ ###### How many such routes are there through a 20×20 grid?
