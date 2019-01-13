@@ -25,7 +25,7 @@ def amicable_sum(n):
     
     amicable_numbers = []
     for r in range(1,len(summs)):
-        if summs[r] < 10000:
+        if summs[r] < n:
             if summs[summs[r]] == summs[r]: # must remove the case where a number
                 pass                        # is its own amicable number. example:
             elif summs[summs[r]] == r:      # 6 because 1 + 2 + 3 = 6. 28 is another example.
