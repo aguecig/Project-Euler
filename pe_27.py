@@ -41,3 +41,6 @@ for r in range(len(a)):
 print('longest streak of primes is: ', record)
 print('equations that produces longest streak is: n**2 + ',coefficients[0],'n + ',coefficients[1])
 print('product of coefficients that produce the longest streak is: ',a[r]*b[s])
+
+#apparently it suffices to only have a list of primes up to 997 for this particular
+#problem
