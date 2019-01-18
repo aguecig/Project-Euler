@@ -360,3 +360,8 @@ As 1 = 1^4 is not a sum it is not included. The sum of these numbers is 1634 + 8
 We shall say that an n-digit number is pandigital if it makes use of all the digits 1 to n exactly once; for example, the 5-digit number, 15234, is 1 through 5 pandigital. The product 7254 is unusual, as the identity, 39 × 186 = 7254, containing multiplicand, multiplier, and product is 1 through 9 pandigital.
 ###### Find the sum of all products whose multiplicand/multiplier/product identity can be written as a 1 through 9 pandigital.
 HINT: Some products can be obtained in more than one way so be sure to only include it once in your sum.
+
+### Problem 34 - Python
+145 is a curious number, as 1! + 4! + 5! = 1 + 24 + 120 = 145.
+###### Find the sum of all numbers which are equal to the sum of the factorial of their digits.
+Note: as 1! = 1 and 2! = 2 are not sums they are not included.
