@@ -355,3 +355,8 @@ Surprisingly there are only three numbers that can be written as the sum of four
 ###### 9474 = 9^4 + 4^4 + 7^4 + 4^4
 As 1 = 1^4 is not a sum it is not included. The sum of these numbers is 1634 + 8208 + 9474 = 19316.
 ###### Find the sum of all the numbers that can be written as the sum of fifth powers of their digits.
+
+### Problem 32 - Python
+We shall say that an n-digit number is pandigital if it makes use of all the digits 1 to n exactly once; for example, the 5-digit number, 15234, is 1 through 5 pandigital. The product 7254 is unusual, as the identity, 39 × 186 = 7254, containing multiplicand, multiplier, and product is 1 through 9 pandigital.
+###### Find the sum of all products whose multiplicand/multiplier/product identity can be written as a 1 through 9 pandigital.
+HINT: Some products can be obtained in more than one way so be sure to only include it once in your sum.
