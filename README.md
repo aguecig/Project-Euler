@@ -369,3 +369,8 @@ Note: as 1! = 1 and 2! = 2 are not sums they are not included.
 ### Problem 35 - Python
 The number, 197, is called a circular prime because all rotations of the digits: 197, 971, and 719, are themselves prime. There are thirteen such primes below 100: 2, 3, 5, 7, 11, 13, 17, 31, 37, 71, 73, 79, and 97.
 ###### How many circular primes are there below one million?
+
+### Problem 36 - Python
+The decimal number, 585 = 10010010012 (binary), is palindromic in both bases. 
+###### Find the sum of all numbers, less than one million, which are palindromic in base 10 and base 2.
+(Please note that the palindromic number, in either base, may not include leading zeros.)
