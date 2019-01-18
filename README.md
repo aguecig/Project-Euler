@@ -365,3 +365,7 @@ HINT: Some products can be obtained in more than one way so be sure to only incl
 145 is a curious number, as 1! + 4! + 5! = 1 + 24 + 120 = 145.
 ###### Find the sum of all numbers which are equal to the sum of the factorial of their digits.
 Note: as 1! = 1 and 2! = 2 are not sums they are not included.
+
+### Problem 35 - Python
+The number, 197, is called a circular prime because all rotations of the digits: 197, 971, and 719, are themselves prime. There are thirteen such primes below 100: 2, 3, 5, 7, 11, 13, 17, 31, 37, 71, 73, 79, and 97.
+###### How many circular primes are there below one million?
