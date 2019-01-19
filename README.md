@@ -374,3 +374,8 @@ The number, 197, is called a circular prime because all rotations of the digits:
 The decimal number, 585 = 1001001001 (binary), is palindromic in both bases. 
 ###### Find the sum of all numbers, less than one million, which are palindromic in base 10 and base 2.
 (Please note that the palindromic number, in either base, may not include leading zeros.)
+
+### Problem 37 - Python
+The number 3797 has an interesting property. Being prime itself, it is possible to continuously remove digits from left to right, and remain prime at each stage: 3797, 797, 97, and 7. Similarly we can work from right to left: 3797, 379, 37, and 3.
+###### Find the sum of the only eleven primes that are both truncatable from left to right and right to left.
+NOTE: 2, 3, 5, and 7 are not considered to be truncatable primes.
