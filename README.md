@@ -379,3 +379,9 @@ The decimal number, 585 = 1001001001 (binary), is palindromic in both bases.
 The number 3797 has an interesting property. Being prime itself, it is possible to continuously remove digits from left to right, and remain prime at each stage: 3797, 797, 97, and 7. Similarly we can work from right to left: 3797, 379, 37, and 3.
 ###### Find the sum of the only eleven primes that are both truncatable from left to right and right to left.
 NOTE: 2, 3, 5, and 7 are not considered to be truncatable primes.
+
+### Problem 40 - Python
+An irrational decimal fraction is created by concatenating the positive integers:
+###### 0.123456789101112131415161718192021...
+It can be seen that the 12th digit of the fractional part is 1. If dn represents the nth digit of the fractional part, find the value of the following expression.
+###### d1 × d10 × d100 × d1000 × d10000 × d100000 × d1000000
