@@ -390,3 +390,7 @@ An irrational decimal fraction is created by concatenating the positive integers
 ###### 0.123456789101112131415161718192021...
 It can be seen that the 12th digit of the fractional part is 1. If dn represents the nth digit of the fractional part, find the value of the following expression.
 ###### d1 × d10 × d100 × d1000 × d10000 × d100000 × d1000000
+
+### Problem 41 -  Python
+We shall say that an n-digit number is pandigital if it makes use of all the digits 1 to n exactly once. For example, 2143 is a 4-digit pandigital and is also prime.
+###### What is the largest n-digit pandigital prime that exists?
