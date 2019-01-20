@@ -380,6 +380,11 @@ The number 3797 has an interesting property. Being prime itself, it is possible 
 ###### Find the sum of the only eleven primes that are both truncatable from left to right and right to left.
 NOTE: 2, 3, 5, and 7 are not considered to be truncatable primes.
 
+### Problem 39 - Python
+If p is the perimeter of a right angle triangle with integral length sides, {a,b,c}, there are exactly three solutions for p = 120.
+###### {20,48,52}, {24,45,51}, {30,40,50}
+###### For which value of p ≤ 1000, is the number of solutions maximised?
+
 ### Problem 40 - Python
 An irrational decimal fraction is created by concatenating the positive integers:
 ###### 0.123456789101112131415161718192021...
