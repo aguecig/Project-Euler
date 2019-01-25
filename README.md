@@ -454,3 +454,9 @@ The first three consecutive numbers to have three distinct prime factors are:
 The series, 1^1 + 2^2 + 3^3 + ... + 10^10 = 10405071317.
 
 ###### Find the last ten digits of the series, 1^1 + 2^2 + 3^3 + ... + 1000^1000.
+
+### Problem 52 - Python
+
+It can be seen that the number, 125874, and its double, 251748, contain exactly the same digits, but in a different order.
+
+###### Find the smallest positive integer, x, such that 2x, 3x, 4x, 5x, and 6x, contain the same digits.
