@@ -460,3 +460,9 @@ The series, 1^1 + 2^2 + 3^3 + ... + 10^10 = 10405071317.
 It can be seen that the number, 125874, and its double, 251748, contain exactly the same digits, but in a different order.
 
 ###### Find the smallest positive integer, x, such that 2x, 3x, 4x, 5x, and 6x, contain the same digits.
+
+### Problem 56 - Python
+
+A googol is a massive number: one followed by one hundred zeros; 100^100 is almost unimaginably large: one followed by two hundred zeros. Despite their size, the sum of the digits in each number is only 1.
+
+###### Considering the natural numbers of the form a^b, where a,b < 100, what is the maximal digital sum?
