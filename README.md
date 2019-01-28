@@ -466,3 +466,7 @@ It can be seen that the number, 125874, and its double, 251748, contain exactly 
 A googol is a massive number: one followed by one hundred zeros; 100^100 is almost unimaginably large: one followed by two hundred zeros. Despite their size, the sum of the digits in each number is only 1.
 
 ###### Considering the natural numbers of the form a^b, where a,b < 100, what is the maximal digital sum?
+
+### Problem 59 - Python
+
+The attached text file has a cipher text message that has been encrypted with key that is 3 characters long all of which are lower case ascii values. The encryption was done by xoring. Determine the plain text message and the ascii score of the plain text message.
