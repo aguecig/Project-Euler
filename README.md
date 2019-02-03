@@ -461,6 +461,21 @@ It can be seen that the number, 125874, and its double, 251748, contain exactly 
 
 ###### Find the smallest positive integer, x, such that 2x, 3x, 4x, 5x, and 6x, contain the same digits.
 
+### Problem 53 - Python
+
+There are exactly ten ways of selecting three from five, 12345:
+
+###### 123, 124, 125, 134, 135, 145, 234, 235, 245, and 345
+
+In combinatorics, we use the notation 5C3 = 10. In general,
+
+###### nCr = n!/r!(n-r)!, where r <= n, n! = n(n-1)...3x2x1, and 0! = 1
+
+It is not until n = 23, that a value exceeds one-million: 23C10 = 1144066
+
+###### How many, not necessarily distinct, values of nCr, for 1<=n<=100, are greater than on-million?
+
+
 ### Problem 56 - Python
 
 A googol is a massive number: one followed by one hundred zeros; 100^100 is almost unimaginably large: one followed by two hundred zeros. Despite their size, the sum of the digits in each number is only 1.
