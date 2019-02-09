@@ -500,3 +500,9 @@ A googol is a massive number: one followed by one hundred zeros; 100^100 is almo
 ### Problem 59 - Python
 
 The attached text file has a cipher text message that has been encrypted with key that is 3 characters long all of which are lower case ascii values. The encryption was done by xoring. Determine the plain text message and the ascii score of the plain text message.
+
+### Problem 63 - Python
+
+The 5-digit number 16807 = 7^5 is also a fifth power. Similarily, the 9-digits number 1324217728 = 8^9 is a ninth power.
+
+###### How many n-digit positive integeers exist which are also an nth power?
