@@ -506,3 +506,8 @@ The attached text file has a cipher text message that has been encrypted with ke
 The 5-digit number 16807 = 7^5 is also a fifth power. Similarily, the 9-digits number 1324217728 = 8^9 is a ninth power.
 
 ###### How many n-digit positive integeers exist which are also an nth power?
+
+### Problem 99 - Python (10% rating)
+
+Comparing two numbers written in index form like 2^11 and 3^7 is not difficult, as any calculator would confirm that 2^11 = 2048 < 3^7 = 2187. However, confirming that 632382^518061 > 519432^525806 would be much more difficult, as both numbers contain over three million digits.
+###### Using the attached file, a 22K text file containing one thousand lines with a base/exponent pair on each line, determine which line has the greatest numerical value.
