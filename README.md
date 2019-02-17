@@ -507,6 +507,28 @@ The 5-digit number 16807 = 7^5 is also a fifth power. Similarily, the 9-digits n
 
 ###### How many n-digit positive integeers exist which are also an nth power?
 
+### Problem 74 - Python
+
+The number 145 is well known for the property that the sum of the factorial of its digits is equal to 145:
+
+###### 1! + 4! + 5! = 1 + 24 + 120 = 145
+
+Perhaps less well known is 169, in that it produces the longest chain of numbers that link back to 169; it turns out that there are only three such loops that exist:
+
+###### 169 => 363601 => 1454 => 169
+###### 871 => 45361 => 871
+###### 872 => 45362 => 872
+
+It is not difficult to prove that every starting number will eventually get stuck in a loop. For example:
+
+###### 69 => 363600 => 1454 => 169 => 363601 => 1454
+###### 78 => 45360 => 871 => 45361 => 871
+###### 540 => 145 => 145
+
+Starting with 69 produces a chain of five non-repeating terms, but the longest nonrepeating chain with a starting number below one million is sixty terms.
+
+###### How many chains with a starting number below one million contina exactly sixty non repeating terms?
+
 ### Problem 97 - Python
 
 The first known prime found to exceed one million digits was discovered in 1999 and is a Mersenne prime of the form 2^(6972593) - 1; it contains exactly 2 098 960 digits. Subsequently, other Mersenne primes of the form 2^p - 1 have been found which countain more digits. However in 2004, there wass found a massive non-Mersenne prime which contains 2 357 207 digits: 28433*2^(7830457) + 1.
