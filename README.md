@@ -385,6 +385,18 @@ The number 3797 has an interesting property. Being prime itself, it is possible 
 ###### Find the sum of the only eleven primes that are both truncatable from left to right and right to left.
 NOTE: 2, 3, 5, and 7 are not considered to be truncatable primes.
 
+### Problem 38 - Python
+
+Take the number 192 and multiply it by each of 1, 2 and 3:
+
+###### 192 x 1 = 192
+###### 192 x 2 = 384
+###### 192 x 3 = 576
+
+By concatenating each product, we get the 1 to 9 pandigital 192384576. We will call 192384576 the concatenated product of 192 and (1,2,3) The same can be achieved by starting with 9 and multiplying by 1,2,3,4 and 5 giving the pandigital 918273645, which is the concatenated product of 9 and (1,2,3,4,5)
+
+###### What is the largest 1 to 9 pandigital 9-digit number that can be formed as the concatenated product of and integer with (1,2,...,n) where n > 1?
+
 ### Problem 39 - Python
 If p is the perimeter of a right angle triangle with integral length sides, {a,b,c}, there are exactly three solutions for p = 120.
 ###### {20,48,52}, {24,45,51}, {30,40,50}
