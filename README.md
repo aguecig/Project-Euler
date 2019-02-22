@@ -541,6 +541,12 @@ Starting with 69 produces a chain of five non-repeating terms, but the longest n
 
 ###### How many chains with a starting number below one million contina exactly sixty non repeating terms?
 
+### Problem 79 - Python
+
+A common security method used for online banking is to ask the user for three random characters from a passcode. For example, if the passcode is 531278, they may ask for the 2nd, 3rd and 5th characters; the expected reply wwould be 317. The attached text file contains fifty successful login attempts.
+
+###### Given that the three characters are always asked for in order, analyse the file as to determine the shortest possible secret passcode of unknown length.
+
 ### Problem 97 - Python
 
 The first known prime found to exceed one million digits was discovered in 1999 and is a Mersenne prime of the form 2^(6972593) - 1; it contains exactly 2 098 960 digits. Subsequently, other Mersenne primes of the form 2^p - 1 have been found which countain more digits. However in 2004, there wass found a massive non-Mersenne prime which contains 2 357 207 digits: 28433*2^(7830457) + 1.
