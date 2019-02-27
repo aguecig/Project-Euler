@@ -1,4 +1,4 @@
-# Project-Euler
+﻿# Project-Euler
 
 ### Problem 1 - C
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
@@ -552,6 +552,18 @@ Starting with 69 produces a chain of five non-repeating terms, but the longest n
 A common security method used for online banking is to ask the user for three random characters from a passcode. For example, if the passcode is 531278, they may ask for the 2nd, 3rd and 5th characters; the expected reply wwould be 317. The attached text file contains fifty successful login attempts.
 
 ###### Given that the three characters are always asked for in order, analyse the file as to determine the shortest possible secret passcode of unknown length.
+
+### Problem 87 (20% rating)
+
+The smallest number expressible as the sum of a prime square, prime cube, and prime fourth power is 28. In fact, there are exactly four numbers below fifty that can 
+be expressed in such a way:
+
+###### 28 = 2^2 + 2^3 + 2^4
+###### 33 = 3^2 + 2^3 + 2^4
+###### 49 = 5^2 + 2^3 + 2^4
+###### 47 = 2^2 + 3^3 + 2^4
+
+###### How many numbers below fifty million can be expressed as the sum of a prime square, prime cube, and prime fourth power?
 
 ### Problem 97 - Python
 
