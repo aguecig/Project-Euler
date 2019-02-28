@@ -472,6 +472,12 @@ The series, 1^1 + 2^2 + 3^3 + ... + 10^10 = 10405071317.
 
 ###### Find the last ten digits of the series, 1^1 + 2^2 + 3^3 + ... + 1000^1000.
 
+### Problem 49 - Python
+
+The arithmetic sequence 1487, 4817, 8147, in which each of the terms increases by 3330, is unusual in two ways: (i) each of the three terms are prome and (ii) each of the 4-digit numbers are permutations of one another. There are no arithmetic sequences made up of three 1-,2- or 3-digit primes exhibiting this property. However, there is on other 4-digit increasing sequence.
+
+###### What 12-digit number do you form by concatenating the three terms in this sequence?
+
 ### Problem 50 - Python
 
 The prime 41 can be written as the sum of six consecutive primes:
