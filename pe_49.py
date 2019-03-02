@@ -3,6 +3,7 @@
 Created on Wed Feb 27 20:17:52 2019
 
 @author: aguec
+
 """
 
 import math
