@@ -388,6 +388,17 @@ Surprisingly there are only three numbers that can be written as the sum of four
 As 1 = 1^4 is not a sum it is not included. The sum of these numbers is 1634 + 8208 + 9474 = 19316.
 ###### Find the sum of all the numbers that can be written as the sum of fifth powers of their digits.
 
+### Problem 31 - Python
+In England, the currency is made up of pound and pence (p). There are eight coins in general circulation:
+
+###### 1p,2p,5p,10p,20p,50p,1 pound (100p), and 2 pound (200p)
+
+It is possible to make 2 pound in the following way:
+
+###### 1 pound + 50p + 2x20p + 5p + 2p + 3x1p
+
+###### How many different ways can 2 pound be made using any number of coins?
+
 ### Problem 32 - Python
 We shall say that an n-digit number is pandigital if it makes use of all the digits 1 to n exactly once; for example, the 5-digit number, 15234, is 1 through 5 pandigital. The product 7254 is unusual, as the identity, 39 × 186 = 7254, containing multiplicand, multiplier, and product is 1 through 9 pandigital.
 ###### Find the sum of all products whose multiplicand/multiplier/product identity can be written as a 1 through 9 pandigital.
