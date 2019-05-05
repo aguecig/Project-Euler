@@ -611,7 +611,7 @@ The 5-digit number 16807 = 7^5 is also a fifth power. Similarily, the 9-digits n
 
 ###### How many n-digit positive integeers exist which are also an nth power?
 
-### Problem 68 - Python
+### Problem 69 - Python
 Euler's Totient function, φ(n) [sometimes called the phi function], is used to determine the number of numbers less than n which are relatively prime to n. For example, as 1, 2, 4, 5, 7, and 8, are all less than nine and relatively prime to nine, φ(9)=6.
 It can be seen that n=6 produces a maximum n/φ(n) for n ≤ 10.
 ###### Find the value of n ≤ 1,000,000 for which n/φ(n) is a maximum.
