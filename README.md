@@ -231,6 +231,9 @@ Starting in the top left corner of a 2×2 grid, and only being able to move to t
  ###### What is the sum of the digits of the number 2^1000?
 
 ### Problem 17
+If the numbers 1 to 5 are written out in words: one, two, three, four, five, then there are 3 + 3 + 5 + 4 + 4 = 19 letters used in total.
+###### If all the numbers from 1 to 1000 (one thousand) inclusive were written out in words, how many letters would be used?
+###### NOTE: Do not count spaces or hyphens. For example, 342 (three hundred and forty-two) contains 23 ketters and 115 (one hundred and fifteen) contains 20 letters. The use of "and" when writing out numbers is in compliance with British usage.
 
 ### Problem 18 - Python
 By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23:
