@@ -669,3 +669,18 @@ The first known prime found to exceed one million digits was discovered in 1999 
 
 Comparing two numbers written in index form like 2^11 and 3^7 is not difficult, as any calculator would confirm that 2^11 = 2048 < 3^7 = 2187. However, confirming that 632382^518061 > 519432^525806 would be much more difficult, as both numbers contain over three million digits.
 ###### Using the attached file, a 22K text file containing one thousand lines with a base/exponent pair on each line, determine which line has the greatest numerical value.
+
+### Problem 102 (15% rating)
+
+Three distinct points are plotted at random on a Cartesian plane, for which -1000 ≤ x, y ≤ 1000, such that a triangle is formed.Consider the following two triangles:
+
+###### A(-340,495), B(-153,-910), C(835,-947)
+
+###### X(-175,41), Y(-421,-714), Z(574,-645)
+
+It can be verified that triangle ABC contains the origin, whereas triangle XYZ does not.
+
+###### Using triangles.txt, a 27K text file containing the co-ordinates of one thousand "random" triangles, find the number of triangles for which the interior contains the origin.
+
+###### NOTE: The first two examples in the file represent the triangles in the example given above.
+
